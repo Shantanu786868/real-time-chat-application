@@ -27,6 +27,14 @@ Real-time communication is implemented using WebSockets/Socket.IO, enabling inst
 This project demonstrates strong skills in full-stack web development, real-time systems, API integration, database design, scalable software architecture, and modern UI/UX development. It also highlights practical implementation of AI chatbot integration within a real-time communication platform using modern industry-standard technologies.
 
 OUTCOME : <img width="1912" height="737" alt="Screenshot 2026-04-04 142732" src="https://github.com/user-attachments/assets/8a5affe4-e4cd-4ebf-83ee-9cf1c530d961" />
+<img width="1908" height="734" alt="Screenshot 2026-04-04 142755" src="https://github.com/user-attachments/assets/ba25b9e0-9b0b-4886-b757-75af2d896e01" />
+<img width="1659" height="837" alt="Screenshot 2026-04-04 142841" src="https://github.com/user-attachments/assets/defb3082-34c3-4aee-8a69-b00d6eeedfff" />
+<img width="1528" height="724" alt="Screenshot 2026-04-04 142923" src="https://github.com/user-attachments/assets/f7e67d70-e353-4111-aea7-2c9db1c712f7" />
+<img width="762" height="345" alt="Screenshot 2026-04-04 143021" src="https://github.com/user-attachments/assets/d4ffe30d-3659-4343-a99c-c123344713c6" />
+<img width="1244" height="712" alt="Screenshot 2026-04-04 143217" src="https://github.com/user-attachments/assets/0ad25d7e-10c3-411a-8b61-3f4b08455bb4" />
+
+
+
 
 
 
